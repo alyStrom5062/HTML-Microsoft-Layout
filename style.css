@@ -1,0 +1,64 @@
+/* * {
+    outline: solid 1px red;
+} */
+nav ul li {
+    display: inline-block;
+}
+
+nav a {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+/* ========================================== */
+
+.vision {
+    height: 500px;
+}
+
+.vision img {
+    width: 100%;
+    height: 100%;
+}
+
+.icons, .character, footer  {
+    text-align: center;
+}
+
+.icons span {
+    margin: 50px 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.character {
+    margin-top: 50px;
+}
+
+.character span{
+    display: inline-block;
+    text-align: center;
+}
+
+.character span p{
+    margin-left: 20px;
+    padding: 5px;
+    width: 250px;
+}
+
+.character span a{
+    border: solid 1px black;
+    background: #000;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 10px;
+    color: white;
+}
+.character span a:hover {
+    color: pink;
+}
+
+footer {
+    font-size: 1.5em;
+    padding: 20px;
+}
